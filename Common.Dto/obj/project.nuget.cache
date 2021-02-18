@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y1fqa/06PYFK3jjBjG0uDfjm3yVf6jQiE8KvZvA2HmcjzbRqcJsLy8SGIbN+XC297mbn2SXfHN83B6ISeaw5wQ==",
+  "success": true,
+  "projectFilePath": "E:\\auditLog\\Algorithms\\Common.Dto\\Common.Dto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CBF\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

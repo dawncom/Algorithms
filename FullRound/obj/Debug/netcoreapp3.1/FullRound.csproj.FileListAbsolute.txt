@@ -1,0 +1,16 @@
+E:\auditLog\Algorithms\FullRound\bin\Debug\netcoreapp3.1\FullRound.exe
+E:\auditLog\Algorithms\FullRound\bin\Debug\netcoreapp3.1\FullRound.deps.json
+E:\auditLog\Algorithms\FullRound\bin\Debug\netcoreapp3.1\FullRound.runtimeconfig.json
+E:\auditLog\Algorithms\FullRound\bin\Debug\netcoreapp3.1\FullRound.runtimeconfig.dev.json
+E:\auditLog\Algorithms\FullRound\bin\Debug\netcoreapp3.1\FullRound.dll
+E:\auditLog\Algorithms\FullRound\bin\Debug\netcoreapp3.1\FullRound.pdb
+E:\auditLog\Algorithms\FullRound\bin\Debug\netcoreapp3.1\Common.Dto.dll
+E:\auditLog\Algorithms\FullRound\bin\Debug\netcoreapp3.1\Common.Dto.pdb
+E:\auditLog\Algorithms\FullRound\obj\Debug\netcoreapp3.1\FullRound.csprojAssemblyReference.cache
+E:\auditLog\Algorithms\FullRound\obj\Debug\netcoreapp3.1\FullRound.AssemblyInfoInputs.cache
+E:\auditLog\Algorithms\FullRound\obj\Debug\netcoreapp3.1\FullRound.AssemblyInfo.cs
+E:\auditLog\Algorithms\FullRound\obj\Debug\netcoreapp3.1\FullRound.csproj.CoreCompileInputs.cache
+E:\auditLog\Algorithms\FullRound\obj\Debug\netcoreapp3.1\FullRound.csproj.CopyComplete
+E:\auditLog\Algorithms\FullRound\obj\Debug\netcoreapp3.1\FullRound.dll
+E:\auditLog\Algorithms\FullRound\obj\Debug\netcoreapp3.1\FullRound.pdb
+E:\auditLog\Algorithms\FullRound\obj\Debug\netcoreapp3.1\FullRound.genruntimeconfig.cache

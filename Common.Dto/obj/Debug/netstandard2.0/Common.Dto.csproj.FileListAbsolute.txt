@@ -1,0 +1,9 @@
+E:\auditLog\Algorithms\Common.Dto\bin\Debug\netstandard2.0\Common.Dto.deps.json
+E:\auditLog\Algorithms\Common.Dto\bin\Debug\netstandard2.0\Common.Dto.dll
+E:\auditLog\Algorithms\Common.Dto\bin\Debug\netstandard2.0\Common.Dto.pdb
+E:\auditLog\Algorithms\Common.Dto\obj\Debug\netstandard2.0\Common.Dto.csprojAssemblyReference.cache
+E:\auditLog\Algorithms\Common.Dto\obj\Debug\netstandard2.0\Common.Dto.AssemblyInfoInputs.cache
+E:\auditLog\Algorithms\Common.Dto\obj\Debug\netstandard2.0\Common.Dto.AssemblyInfo.cs
+E:\auditLog\Algorithms\Common.Dto\obj\Debug\netstandard2.0\Common.Dto.csproj.CoreCompileInputs.cache
+E:\auditLog\Algorithms\Common.Dto\obj\Debug\netstandard2.0\Common.Dto.dll
+E:\auditLog\Algorithms\Common.Dto\obj\Debug\netstandard2.0\Common.Dto.pdb

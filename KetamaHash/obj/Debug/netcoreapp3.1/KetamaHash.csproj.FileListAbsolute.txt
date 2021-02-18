@@ -1,0 +1,13 @@
+E:\auditLog\Algorithms\KetamaHash\bin\Debug\netcoreapp3.1\KetamaHash.exe
+E:\auditLog\Algorithms\KetamaHash\bin\Debug\netcoreapp3.1\KetamaHash.deps.json
+E:\auditLog\Algorithms\KetamaHash\bin\Debug\netcoreapp3.1\KetamaHash.runtimeconfig.json
+E:\auditLog\Algorithms\KetamaHash\bin\Debug\netcoreapp3.1\KetamaHash.runtimeconfig.dev.json
+E:\auditLog\Algorithms\KetamaHash\bin\Debug\netcoreapp3.1\KetamaHash.dll
+E:\auditLog\Algorithms\KetamaHash\bin\Debug\netcoreapp3.1\KetamaHash.pdb
+E:\auditLog\Algorithms\KetamaHash\obj\Debug\netcoreapp3.1\KetamaHash.csprojAssemblyReference.cache
+E:\auditLog\Algorithms\KetamaHash\obj\Debug\netcoreapp3.1\KetamaHash.AssemblyInfoInputs.cache
+E:\auditLog\Algorithms\KetamaHash\obj\Debug\netcoreapp3.1\KetamaHash.AssemblyInfo.cs
+E:\auditLog\Algorithms\KetamaHash\obj\Debug\netcoreapp3.1\KetamaHash.csproj.CoreCompileInputs.cache
+E:\auditLog\Algorithms\KetamaHash\obj\Debug\netcoreapp3.1\KetamaHash.dll
+E:\auditLog\Algorithms\KetamaHash\obj\Debug\netcoreapp3.1\KetamaHash.pdb
+E:\auditLog\Algorithms\KetamaHash\obj\Debug\netcoreapp3.1\KetamaHash.genruntimeconfig.cache

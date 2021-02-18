@@ -1,0 +1,16 @@
+E:\auditLog\Algorithms\FullRandom\bin\Debug\netcoreapp3.1\FullRandom.exe
+E:\auditLog\Algorithms\FullRandom\bin\Debug\netcoreapp3.1\FullRandom.deps.json
+E:\auditLog\Algorithms\FullRandom\bin\Debug\netcoreapp3.1\FullRandom.runtimeconfig.json
+E:\auditLog\Algorithms\FullRandom\bin\Debug\netcoreapp3.1\FullRandom.runtimeconfig.dev.json
+E:\auditLog\Algorithms\FullRandom\bin\Debug\netcoreapp3.1\FullRandom.dll
+E:\auditLog\Algorithms\FullRandom\bin\Debug\netcoreapp3.1\FullRandom.pdb
+E:\auditLog\Algorithms\FullRandom\bin\Debug\netcoreapp3.1\Common.Dto.dll
+E:\auditLog\Algorithms\FullRandom\bin\Debug\netcoreapp3.1\Common.Dto.pdb
+E:\auditLog\Algorithms\FullRandom\obj\Debug\netcoreapp3.1\FullRandom.csprojAssemblyReference.cache
+E:\auditLog\Algorithms\FullRandom\obj\Debug\netcoreapp3.1\FullRandom.AssemblyInfoInputs.cache
+E:\auditLog\Algorithms\FullRandom\obj\Debug\netcoreapp3.1\FullRandom.AssemblyInfo.cs
+E:\auditLog\Algorithms\FullRandom\obj\Debug\netcoreapp3.1\FullRandom.csproj.CoreCompileInputs.cache
+E:\auditLog\Algorithms\FullRandom\obj\Debug\netcoreapp3.1\FullRandom.csproj.CopyComplete
+E:\auditLog\Algorithms\FullRandom\obj\Debug\netcoreapp3.1\FullRandom.dll
+E:\auditLog\Algorithms\FullRandom\obj\Debug\netcoreapp3.1\FullRandom.pdb
+E:\auditLog\Algorithms\FullRandom\obj\Debug\netcoreapp3.1\FullRandom.genruntimeconfig.cache

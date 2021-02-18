@@ -1,0 +1,15 @@
+E:\auditLog\Algorithms\WeightRound\bin\Debug\netcoreapp3.1\WeightRound.exe
+E:\auditLog\Algorithms\WeightRound\bin\Debug\netcoreapp3.1\WeightRound.deps.json
+E:\auditLog\Algorithms\WeightRound\bin\Debug\netcoreapp3.1\WeightRound.runtimeconfig.json
+E:\auditLog\Algorithms\WeightRound\bin\Debug\netcoreapp3.1\WeightRound.runtimeconfig.dev.json
+E:\auditLog\Algorithms\WeightRound\bin\Debug\netcoreapp3.1\WeightRound.dll
+E:\auditLog\Algorithms\WeightRound\bin\Debug\netcoreapp3.1\WeightRound.pdb
+E:\auditLog\Algorithms\WeightRound\bin\Debug\netcoreapp3.1\Common.Dto.dll
+E:\auditLog\Algorithms\WeightRound\bin\Debug\netcoreapp3.1\Common.Dto.pdb
+E:\auditLog\Algorithms\WeightRound\obj\Debug\netcoreapp3.1\WeightRound.AssemblyInfoInputs.cache
+E:\auditLog\Algorithms\WeightRound\obj\Debug\netcoreapp3.1\WeightRound.AssemblyInfo.cs
+E:\auditLog\Algorithms\WeightRound\obj\Debug\netcoreapp3.1\WeightRound.csproj.CoreCompileInputs.cache
+E:\auditLog\Algorithms\WeightRound\obj\Debug\netcoreapp3.1\WeightRound.csproj.CopyComplete
+E:\auditLog\Algorithms\WeightRound\obj\Debug\netcoreapp3.1\WeightRound.dll
+E:\auditLog\Algorithms\WeightRound\obj\Debug\netcoreapp3.1\WeightRound.pdb
+E:\auditLog\Algorithms\WeightRound\obj\Debug\netcoreapp3.1\WeightRound.genruntimeconfig.cache

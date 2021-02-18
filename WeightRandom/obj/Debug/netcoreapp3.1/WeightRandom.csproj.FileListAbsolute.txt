@@ -1,0 +1,16 @@
+E:\auditLog\Algorithms\WeightRandom\bin\Debug\netcoreapp3.1\WeightRandom.exe
+E:\auditLog\Algorithms\WeightRandom\bin\Debug\netcoreapp3.1\WeightRandom.deps.json
+E:\auditLog\Algorithms\WeightRandom\bin\Debug\netcoreapp3.1\WeightRandom.runtimeconfig.json
+E:\auditLog\Algorithms\WeightRandom\bin\Debug\netcoreapp3.1\WeightRandom.runtimeconfig.dev.json
+E:\auditLog\Algorithms\WeightRandom\bin\Debug\netcoreapp3.1\WeightRandom.dll
+E:\auditLog\Algorithms\WeightRandom\bin\Debug\netcoreapp3.1\WeightRandom.pdb
+E:\auditLog\Algorithms\WeightRandom\bin\Debug\netcoreapp3.1\Common.Dto.dll
+E:\auditLog\Algorithms\WeightRandom\bin\Debug\netcoreapp3.1\Common.Dto.pdb
+E:\auditLog\Algorithms\WeightRandom\obj\Debug\netcoreapp3.1\WeightRandom.csprojAssemblyReference.cache
+E:\auditLog\Algorithms\WeightRandom\obj\Debug\netcoreapp3.1\WeightRandom.AssemblyInfoInputs.cache
+E:\auditLog\Algorithms\WeightRandom\obj\Debug\netcoreapp3.1\WeightRandom.AssemblyInfo.cs
+E:\auditLog\Algorithms\WeightRandom\obj\Debug\netcoreapp3.1\WeightRandom.csproj.CoreCompileInputs.cache
+E:\auditLog\Algorithms\WeightRandom\obj\Debug\netcoreapp3.1\WeightRandom.csproj.CopyComplete
+E:\auditLog\Algorithms\WeightRandom\obj\Debug\netcoreapp3.1\WeightRandom.dll
+E:\auditLog\Algorithms\WeightRandom\obj\Debug\netcoreapp3.1\WeightRandom.pdb
+E:\auditLog\Algorithms\WeightRandom\obj\Debug\netcoreapp3.1\WeightRandom.genruntimeconfig.cache

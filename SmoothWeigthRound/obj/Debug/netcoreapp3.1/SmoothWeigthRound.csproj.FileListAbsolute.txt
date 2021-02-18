@@ -1,0 +1,16 @@
+E:\auditLog\Algorithms\SmoothWeigthRound\bin\Debug\netcoreapp3.1\SmoothWeigthRound.exe
+E:\auditLog\Algorithms\SmoothWeigthRound\bin\Debug\netcoreapp3.1\SmoothWeigthRound.deps.json
+E:\auditLog\Algorithms\SmoothWeigthRound\bin\Debug\netcoreapp3.1\SmoothWeigthRound.runtimeconfig.json
+E:\auditLog\Algorithms\SmoothWeigthRound\bin\Debug\netcoreapp3.1\SmoothWeigthRound.runtimeconfig.dev.json
+E:\auditLog\Algorithms\SmoothWeigthRound\bin\Debug\netcoreapp3.1\SmoothWeigthRound.dll
+E:\auditLog\Algorithms\SmoothWeigthRound\bin\Debug\netcoreapp3.1\SmoothWeigthRound.pdb
+E:\auditLog\Algorithms\SmoothWeigthRound\bin\Debug\netcoreapp3.1\Common.Dto.dll
+E:\auditLog\Algorithms\SmoothWeigthRound\bin\Debug\netcoreapp3.1\Common.Dto.pdb
+E:\auditLog\Algorithms\SmoothWeigthRound\obj\Debug\netcoreapp3.1\SmoothWeigthRound.csprojAssemblyReference.cache
+E:\auditLog\Algorithms\SmoothWeigthRound\obj\Debug\netcoreapp3.1\SmoothWeigthRound.AssemblyInfoInputs.cache
+E:\auditLog\Algorithms\SmoothWeigthRound\obj\Debug\netcoreapp3.1\SmoothWeigthRound.AssemblyInfo.cs
+E:\auditLog\Algorithms\SmoothWeigthRound\obj\Debug\netcoreapp3.1\SmoothWeigthRound.csproj.CoreCompileInputs.cache
+E:\auditLog\Algorithms\SmoothWeigthRound\obj\Debug\netcoreapp3.1\SmoothWeigthRound.csproj.CopyComplete
+E:\auditLog\Algorithms\SmoothWeigthRound\obj\Debug\netcoreapp3.1\SmoothWeigthRound.dll
+E:\auditLog\Algorithms\SmoothWeigthRound\obj\Debug\netcoreapp3.1\SmoothWeigthRound.pdb
+E:\auditLog\Algorithms\SmoothWeigthRound\obj\Debug\netcoreapp3.1\SmoothWeigthRound.genruntimeconfig.cache

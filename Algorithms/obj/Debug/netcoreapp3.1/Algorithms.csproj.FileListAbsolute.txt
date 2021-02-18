@@ -1,0 +1,13 @@
+E:\auditLog\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.exe
+E:\auditLog\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.deps.json
+E:\auditLog\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.json
+E:\auditLog\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.dev.json
+E:\auditLog\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.dll
+E:\auditLog\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.pdb
+E:\auditLog\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csprojAssemblyReference.cache
+E:\auditLog\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfoInputs.cache
+E:\auditLog\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfo.cs
+E:\auditLog\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csproj.CoreCompileInputs.cache
+E:\auditLog\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.dll
+E:\auditLog\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.pdb
+E:\auditLog\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.genruntimeconfig.cache
